@@ -2,7 +2,15 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+*.log
+*.pot
+*.pyc
+.env
+.sec
+__pycache__/
+local_settings.py
+db.sqlite3
+venv/
 # C extensions
 *.so
 
