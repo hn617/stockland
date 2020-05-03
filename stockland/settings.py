@@ -79,7 +79,7 @@ WSGI_APPLICATION = 'stockland.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'stockland',
+        'NAME': 'stockland_ldb',
         'USER': 'postgres',
         'PASSWORD': 'sarOtah',
         'HOST': 'localhost',
