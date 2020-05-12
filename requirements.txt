@@ -1,4 +1,4 @@
-django-1
+django
 gunicorn 
 whitenoise 
 dj-database-url 
@@ -6,4 +6,3 @@ psycopg2
 python-dotenv 
 whitenoise
 django-heroku
-
